@@ -1,0 +1,24 @@
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\ConnectionWithDB\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\ConnectionWithDB\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\ConnectionWithDB\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\ConnectionWithDB\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\ConnectionWithDB\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\ConnectionWithDB\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\ConnectionWithDB\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3(with_linq_toSql)\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3(with_linq_toSql)\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3(with_linq_toSql)\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3(with_linq_toSql)\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3(with_linq_toSql)\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3(with_linq_toSql)\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3(with_linq_toSql)\Assignment3\obj\Debug\Assignment3.pdb
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3(with_linq_toSql)\Assignment3\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3(with_linq_toSql)\Assignment3\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\jloom\source\repos\AFDEMP(repos)\CSharp\BootcampAssignments\Assigment3 with Linq to Sql\Assignment3(with_linq_toSql)\Assignment3\obj\Debug\Assignment3.csproj.CopyComplete
